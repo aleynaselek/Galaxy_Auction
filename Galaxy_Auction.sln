@@ -5,6 +5,12 @@ VisualStudioVersion = 17.10.35122.118
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Galaxy_Auction", "Galaxy_Auction\Galaxy_Auction.csproj", "{EE0C90A4-5697-42C8-AA9B-D04F6B011E58}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Galaxy_Auction_Data_Access", "Galaxy_Auction_Data_Access\Galaxy_Auction_Data_Access.csproj", "{EE7F38E2-42A7-4D0E-B81F-465B29346287}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Galaxy_Auction_Business", "Galaxy_Auction_Business\Galaxy_Auction_Business.csproj", "{12C6E3E5-E5A8-4765-82AD-DD77FE1549FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Galaxy_Auction_Core", "Galaxy_Auction_Core\Galaxy_Auction_Core.csproj", "{967B2F91-B2EF-4357-840F-459D304C634E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +21,18 @@ Global
 		{EE0C90A4-5697-42C8-AA9B-D04F6B011E58}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EE0C90A4-5697-42C8-AA9B-D04F6B011E58}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EE0C90A4-5697-42C8-AA9B-D04F6B011E58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE7F38E2-42A7-4D0E-B81F-465B29346287}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE7F38E2-42A7-4D0E-B81F-465B29346287}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE7F38E2-42A7-4D0E-B81F-465B29346287}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE7F38E2-42A7-4D0E-B81F-465B29346287}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12C6E3E5-E5A8-4765-82AD-DD77FE1549FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12C6E3E5-E5A8-4765-82AD-DD77FE1549FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12C6E3E5-E5A8-4765-82AD-DD77FE1549FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12C6E3E5-E5A8-4765-82AD-DD77FE1549FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{967B2F91-B2EF-4357-840F-459D304C634E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{967B2F91-B2EF-4357-840F-459D304C634E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{967B2F91-B2EF-4357-840F-459D304C634E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{967B2F91-B2EF-4357-840F-459D304C634E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
